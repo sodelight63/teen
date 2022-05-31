@@ -11,7 +11,7 @@ require_once('config/connect_db.php');
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <title>หน้าแรก</title>
 </head>
-<div class=""></div>
+
 <body>
 
     <div class="container">
